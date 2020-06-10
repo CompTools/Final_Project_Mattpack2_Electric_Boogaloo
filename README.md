@@ -3,7 +3,7 @@
 
 People in Project
 
-1. 
+1. Vanessa Muhl
 2. Juan H Piloto
 3. Rebecca Molina
 4.
