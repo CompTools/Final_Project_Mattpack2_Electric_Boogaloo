@@ -29,4 +29,4 @@ The script includes the following flow control elements:
 - two functions are used to define analyzing airports and flight delays.
 - the module pandas and matplotlib are used for creating graphs.
 - two graphs represents the data inputted from our code.
-- a print command that allows the graphs to be saved as a PDF
+- the graphs are saved as a PDF (We have included two example graphs, the "your" graph we included is for LAX)
