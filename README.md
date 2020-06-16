@@ -30,3 +30,27 @@ The script includes the following flow control elements:
 - the module pandas and matplotlib are used for creating graphs.
 - two graphs represents the data inputted from our code.
 - the graphs are saved as a PDF (We have included two example graphs, the "your" graph we included is for LAX)
+
+
+## Grading
+
+You will receive points for:
+
+Rubric item | Points | Your score
+------------|--------|-----------
+Group plan submitted by 6/9/20| 5 points | **5**
+Read file/API | 3 points | **3**
+`for`/`while` loop | 3 points | **3**
+`if` statement | 3 points |**3**
+Two functions | 3 points |**3**
+`import` something | 3 points |**3**
+Write file | 3 points |**3**
+Using github | 2 points|**2**
+Having at least one commit from each member of the team | 2 points|**3**
+Using meaningful commit messages | 1 points|**1**
+Using branches to work collaboratively | 4 points |**4**
+Using comments in code | 2 points |*2***
+Logical flow to code | 3 points |**3**
+Readability of code |3 points |**3**
+Extra credit: | |****
+**Total points:** | **40 points** | **40/40**
